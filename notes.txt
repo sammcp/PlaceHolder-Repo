@@ -1,0 +1,7 @@
+Notes 
+
+This program should work fine now
+possible improvements
+
+1.) User input - add a command line input and input checking 
+2.) GUI - Visualize the reults via a GUI
