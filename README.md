@@ -1,2 +1,3 @@
-# PlaceHolder-Repo
-PlaceHolder to put in a python project
+# Pyhton project that I Created to demonstrate some concepts from my 309 class
+
+
