@@ -1,3 +1,5 @@
-# Pyhton project that I Created to demonstrate some concepts from my 309 class
+# Pyhton project to demonstrate 
+
+See class notes for the algorithm
 
 
